@@ -17,7 +17,7 @@ set tabstop=5
 "オートインデントの幅"
 set shiftwidth=5
 "現在の行をハイライト表示する"
-set cursorline:
+set cursorline
 
 " Note: Skip initialization for vim-tiny or vim-small.
 if 0 | endif
